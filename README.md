@@ -69,4 +69,4 @@
 | Neural network from scratch | C | | | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
 | Kwaliteit AAI software | T | | | 3 |
-| Werken volgens planning | C | | | 3 | [This is an external link to weekplanning](https://gitlab.fdmci.hva.nl/rietf/Minor_logboek_AAI/-/blob/main/weekplanning.md) |
+| Werken volgens planning | C | | | 3 | [This is an external link to weekplanning](-/blob/main/weekplanning.md) |
