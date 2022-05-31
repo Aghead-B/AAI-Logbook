@@ -1,4 +1,5 @@
-PLanning tijdens de minor let op dit is eem mogelijke planning.
+Planning tijdens de minor let op dit is eem mogelijke planning. Bespreek met je coach de individuele oplevermomenten.
+Het is voor het geven van feedback door de logboekcoach noodzakelijk dat je deze planing aanhoudt.  
 
 | **Week** | **Onderwerp** | **TODO** | **When done** | 
 | ------ | -------- | --------------------- | ------------ |  
