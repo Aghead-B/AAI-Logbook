@@ -66,6 +66,6 @@
 | Testen op bias en betrouwbaarheid | T | | | 3 |
 | | | | | |
 | **Toepassingen** | | | | |
-| Neural network from scratch | | | | 1 |
+| Neural network from scratch | C | | | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
 | Kwaliteit AAI software | T | | | 3 |
