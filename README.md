@@ -41,7 +41,7 @@
 | Logistic regression | A | | | 1 |
 | Decision tree | A | | | 1 |
 | Random forest | A | | | 1 |
-| Clustering | T | | 2 | |
+| Clustering | T | |  | 2 |
 | | | | |
 | Dense neural network | A | | | 2 |
 | Convolutional neural network | A | | | 2 |
