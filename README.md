@@ -1,5 +1,7 @@
 Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaakt door een ander of vanuit een tutorial, geef in het notebook aan wie de originele maker was of welke tutorial je hebt gevolgt geef daarna duidelijk aan wat je hebt toegevoegd. In het assessment wordt voornamelijk gegekeken naar jou toevoegingen.
 
+( K = Kennis van hebben, T = Toepassen , A = Analyseren , C = Creatie )
+
 | **Lineaire algebra** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
 | --- | --- | --- | --- | --- | --- |
 | Matrixvermenigvuldigen | T | | | 1 | |
