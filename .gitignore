@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-*.hdf5
+*/.hdf5/*
 
 # VSCode
 .vscode
