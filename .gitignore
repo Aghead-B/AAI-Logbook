@@ -2,6 +2,9 @@
 */.ipynb_checkpoints/*
 */.hdf5/*
 
+python_nn/mnist_dataset/*
+!python_nn/mnist_dataset/.gitkeep
+
 # VSCode
 .vscode
 */.vscode/*
