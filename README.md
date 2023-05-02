@@ -4,7 +4,7 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 
 | **Lineaire algebra** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
 | --- | --- | --- | --- | --- | --- |
-| Matrixvermenigvuldigen | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Matrices) | 1 | |
+| Matrixvermenigvuldigen | T | T |[Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
 | Inverse matrix | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Matrices) | 1 | |
 | Transpose matrix | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Matrices) | 1 | |
 | Vectoren Inproduct | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Vectoren) | 1 | |
