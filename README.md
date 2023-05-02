@@ -30,13 +30,13 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Regressie-analyse | T | | | 1 | |
 | | | | | | |
 | **Data voorbereiden en feature selection** |**Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | |
-| Z-scores | T | | | 1,2 |
-| Standaardafwijking | T | | | 1 |
-| Normaliseren | T | | | 1,2 |
-| T-toets | A | | | 1 |
-| ANOVA | T | | | 1,2 |
-| Correlatiematrix | A | | | 1 |
-| PCA | T | | | 2 | 
+| Z-scores | T | T | \statistics\PCA\heart_attack.ipynb(4.1) | 1,2 |
+| Standaardafwijking | T | T | \statistics\PCA\heart_attack.ipynb(4.1) | 1 |
+| Normaliseren | T | T | \statistics\PCA\heart_attack.ipynb(4.1) | 1,2 |
+| T-toets | A | A | \statistics\T_ANOVA_test\flight_price.ipynb(4.1) | 1 |
+| ANOVA | T | A | \statistics\T_ANOVA_test\flight_price.ipynb(4.1) | 1,2 |
+| Correlatiematrix | A | A | \statistics\T_ANOVA_test\flight_price.ipynb(4.1) | 1 |
+| PCA | T | T | \statistics\PCA\heart_attack.ipynb(4.1) | 2 | 
 | Bias en betrouwbaarheid | T | | | 2 | 
  | | | | |
 | **Python** | | | | |
