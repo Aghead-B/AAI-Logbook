@@ -11,11 +11,11 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Afstand | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Afstanden van punten) | 1 | |
 | | | | | | |
 | **Differentieren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
-| Differentieren | T | | | 1 | |
-| Partieel differentieren | T | | | 1 | |
-| Gradient descent | A | | | 2 | |
-| Backpropagation | T | | | 2 |
-| Activatiefuncties | T | | | 2 |
+| Differentieren | T | T | \wiskunde\wiskunde_opdrachten_week_2.docx(Sommen van Differentiëren) | 1 | |
+| Partieel differentieren | T | T | \wiskunde\wiskunde_opdrachten_week_3.docx(Sommen van partiële afgeleide) | 1 | |
+| Gradient descent | A | A | \wiskunde\wiskunde_opdrachten_week_3.docx(Sommen van partiële afgeleide) | 2 | |
+| Backpropagation | T | T | \python_nn\neural_netwerk_V4.ipynb(4) | 2 |
+| Activatiefuncties | T | T | \wiskunde\wiskunde_opdrachten_week_2.docx(Sommen van Differentiëren) & \python_nn\neural_netwerk_V4.ipynb(4) | 2 |
 | | | | | | |
 | **Kostenfucnties** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
 | Mean Squared Error | T | | | 2 |
