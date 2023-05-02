@@ -4,11 +4,11 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 
 | **Lineaire algebra** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
 | --- | --- | --- | --- | --- | --- |
-| Matrixvermenigvuldigen | T | | | 1 | |
-| Inverse matrix | T | | | 1 | |
-| Transpose matrix | T | | | 1 | |
-| Vectoren Inproduct | T | | | 1 | |
-| Afstand | T | | | 1 | |
+| Matrixvermenigvuldigen | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Matrices) | 1 | |
+| Inverse matrix | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Matrices) | 1 | |
+| Transpose matrix | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Matrices) | 1 | |
+| Vectoren Inproduct | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Vectoren) | 1 | |
+| Afstand | T | T | \wiskunde\wiskunde_opdrachten_week_1.docx(Afstanden van punten) | 1 | |
 | | | | | | |
 | **Differentieren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
 | Differentieren | T | | | 1 | |
