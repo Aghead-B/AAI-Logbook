@@ -18,10 +18,10 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Activatiefuncties | T | T | \wiskunde\wiskunde_opdrachten_week_2.docx(Sommen van Differentiëren) & \python_nn\neural_netwerk_V4.ipynb(4) | 2 |
 | | | | | | |
 | **Kostenfucnties** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
-| Mean Squared Error | T | | | 2 |
-| Cross Entropy | T | | | 2 |
-| Softmax | T | | | 2 |
-| Relatie wiskunde en AI | A | | | 3 | |
+| Mean Squared Error | T | T | \wiskunde\wiskunde_opdrachten_week_4.docx | 2 |
+| Cross Entropy | T | T | \wiskunde\wiskunde_opdrachten_week_4.docx | 2 |
+| Softmax | T | T | \wiskunde\wiskunde_opdrachten_week_4.docx | 2 |
+| Relatie wiskunde en AI | A | A | \python_nn\neural_netwerk_V4.ipynb | 3 | |
 | | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | |
 | Scatter matrix | A | | | 1 | |
