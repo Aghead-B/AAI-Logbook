@@ -4,24 +4,24 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 
 | **Lineaire algebra** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
 | --- | --- | --- | --- | --- | --- |
-| Matrixvermenigvuldigen | T | T |[Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
-| Inverse matrix | T | T | [Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
-| Transpose matrix | T | T | [Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
-| Vectoren Inproduct | T | T | [Vectoren](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx) | 1 | |
-| Afstand | T | T | [Afstanden van punten](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx) | 1 | |
+| Matrixvermenigvuldigen | T | |[Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
+| Inverse matrix | T | | [Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
+| Transpose matrix | T | | [Matrices](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx)| 1 | |
+| Vectoren Inproduct | T | | [Vectoren](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx) | 1 | |
+| Afstand | T | | [Afstanden van punten](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_1.docx) | 1 | |
 | | | | | | |
 | **Differentieren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
-| Differentieren | T | T | [Sommen van Differentiëren](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_2.docx)| 1 | |
-| Partieel differentieren | T | T | [Sommen van partiële afgeleide](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_3.docx) | 1 | |
-| Gradient descent | A | A | [Sommen van partiële afgeleide](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_3.docx) | 2 | |
-| Backpropagation | T | T | [Backpropagation](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 2 |
-| Activatiefuncties | T | T | [Sommen van Differentiëren](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_2.docx) & [Activatiefuncties](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 2 |
+| Differentieren | T | | [Sommen van Differentiëren](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_2.docx)| 1 | |
+| Partieel differentieren | T | | [Sommen van partiële afgeleide](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_3.docx) | 1 | |
+| Gradient descent | A | | [Sommen van partiële afgeleide](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_3.docx) | 2 | |
+| Backpropagation | T | | [Backpropagation](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 2 |
+| Activatiefuncties | T | | [Sommen van Differentiëren](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_2.docx) & [Activatiefuncties](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 2 |
 | | | | | | |
 | **Kostenfucnties** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* |
-| Mean Squared Error | T | T | [MSE](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_4.docx) | 2 |
-| Cross Entropy | T | T | [CE](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_4.docx) | 2 |
-| Softmax | T | T | [Softmax](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_4.docx) | 2 |
-| Relatie wiskunde en AI | A | A | [Neural Netwerk](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb)| 3 | |
+| Mean Squared Error | T | | [MSE](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_4.docx) | 2 |
+| Cross Entropy | T | | [CE](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_4.docx) | 2 |
+| Softmax | T | | [Softmax](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/wiskunde/wiskunde_opdrachten_week_4.docx) | 2 |
+| Relatie wiskunde en AI | A | | [Neural Netwerk](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb)| 3 | |
 | | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | |
 | Scatter matrix | A | | | 1 | |
@@ -30,13 +30,13 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Regressie-analyse | T | | | 1 | |
 | | | | | | |
 | **Data voorbereiden en feature selection** |**Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | |
-| Z-scores | T | T | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1,2 |
-| Standaardafwijking | T | T |[heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1 |
-| Normaliseren | T | T | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1,2 |
-| T-toets | A | A | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test)  | 1 |
-| ANOVA | T | A | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1,2 |
-| Correlatiematrix | A | A | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1 |
-| PCA | T | T | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 2 | 
+| Z-scores | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1,2 |
+| Standaardafwijking | T | |[heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1 |
+| Normaliseren | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1,2 |
+| T-toets | A | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test)  | 1 |
+| ANOVA | T | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1,2 |
+| Correlatiematrix | A | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1 |
+| PCA | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 2 | 
 | Bias en betrouwbaarheid | T | | | 2 | 
  | | | | |
 | **Python** | | | | |
