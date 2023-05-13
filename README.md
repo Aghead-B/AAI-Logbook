@@ -24,10 +24,10 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Relatie wiskunde en AI | A | | [Neural Netwerk](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb)| 3 | |
 | | | | | | |
 | **Inzicht verkrijgen in data** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | |
-| Scatter matrix | A | | | 1 | |
-| Data visualiseren | A | | | 1 | |
-| Normaalverdeling | T | | | 1 | |
-| Regressie-analyse | T | | | 1 | |
+| Scatter matrix | A | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1 | |
+| Data visualiseren | A | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1 | |
+| Normaalverdeling | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1 | |
+| Regressie-analyse | T | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1 | |
 | | | | | | |
 | **Data voorbereiden en feature selection** |**Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | |
 | Z-scores | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 1,2 |
