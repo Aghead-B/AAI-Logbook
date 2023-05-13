@@ -37,7 +37,7 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | ANOVA | T | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1,2 |
 | Correlatiematrix | A | | [flight_price.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/T_ANOVA_test) | 1 |
 | PCA | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 2 | 
-| Bias en betrouwbaarheid | T | | | 2 | 
+| Bias en betrouwbaarheid | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 2 | 
  | | | | |
 | **Python** | | | | |
 | Advanced python (Comp/Dict/Slicing) | T | | | 1 | |
