@@ -5,6 +5,12 @@
 python_nn/mnist_dataset/*
 !python_nn/mnist_dataset/.gitkeep
 
+machinelearning/movie_genre_dataset/img_41K
+!machinelearning/movie_genre_dataset/img_41K/.gitkeep
+
+# all .h5 files
+*.h5
+
 # VSCode
 .vscode
 */.vscode/*
