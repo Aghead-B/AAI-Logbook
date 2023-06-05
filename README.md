@@ -40,7 +40,7 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Bias en betrouwbaarheid | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 2 | 
  | | | | |
 | **Python** | | | | |
-| Advanced python (Comp/Dict/Slicing) | T | | | 1 | |
+| Advanced python (Comp/Dict/Slicing) | T | | [NN data structure](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 1 | |
  | | | | |
 | **Model selecteren, instellen, trainen en testen/valideren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
 | Geschikt algoritme kiezen | A | | | 3 |
