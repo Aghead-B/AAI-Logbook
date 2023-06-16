@@ -66,21 +66,20 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Reinforcement learning | T | | [Taxi-problem](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/reinforcement%20learning/RL_taxi_problem.ipynb) | 2 |
 | | | | | |
 | **Model verbeteren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
-| Cross validation | T | | | 1 |
-| Ensemble methods | T | | | 2 |
-| Transfer learning | T | | | 2 |
-| XAI extensies | A | | | 3 |
-| Taalmodellen verfijnen en integreren | T | | | 3 | |
+| Cross validation | T | | [Models](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb) | 1 |
+| Ensemble methods | T | | [Let's combine DesicionTreeRegressor and Linear regression (Ensemble method) and see what happens](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb) | 2 |
+| Transfer learning | T | | [ 4.2 Transfer Learning Model](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/movie_genre_dataset/movie_genre.ipynb)| 2 |
+| XAI extensies | A | | [visualization](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics)| 3 |
+| Taalmodellen verfijnen en integreren | T | | [PCA & T_ANOVA](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics) | 3 | |
  | | | | |
 | **Evalueren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
-| Overfitting en underfitting | A |  | | 1 |
-| Learning curve | A | | | 1 |
-| Confusion matrix | A | | | 1 |
-| ROC curve | A | | | 1 |
-| Testen op bias en betrouwbaarheid | T | | | 3 |
+| Overfitting en underfitting | A |  | [Models](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/movie_genre_dataset/movie_genre.ipynb) | 1 |
+| Learning curve | A | | [Models](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/movie_genre_dataset/movie_genre.ipynb) | 1 |
+| Confusion matrix | A | | [KNN model](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/NLP(RNN)/spam_filter_step_by_step.ipynb) | 1 |
+| ROC curve | A | | [Random Forest model](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/NLP(RNN)/spam_filter_step_by_step.ipynb) | 1 |
+| Testen op bias en betrouwbaarheid | T | | [heart_attack.ipynb(4.1)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/statistics/PCA) | 3 |
 | | | | | |
 | **Toepassingen** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
-| Neural network from scratch | C | | | 1 |
-| Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
-| Kwaliteit AAI software | T | | | 3 |
-| Werken volgens planning | C | | | 3 | [This is an internal link to weekplanning](weekplanning.md) |
+| Neural network from scratch | C | | [XOR Dense neural network](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 1 |
+| Optimaliseren (gebruik GPU, Cloud, real-time) | T | | TensorFlow GPU(version) | 3 |
+| Kwaliteit AAI software | T | | Comments everywhere, Documentation % Reliability | 3 |
