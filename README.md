@@ -43,17 +43,17 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Advanced python (Comp/Dict/Slicing) | T | | [NN data structure](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 1 | |
  | | | | |
 | **Model selecteren, instellen, trainen en testen/valideren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
-| Geschikt algoritme kiezen | A | | | 3 |
-| KNN | A | | | 1 |
-| SVM | A | | | 1 |
-| Naive Bayes | A | | | 1 |
-| Linear regression | A | | | 1 |
-| Logistic regression | A | | | 1 |
-| Decision tree | A | | | 1 |
-| Random forest | A | | | 1 |
-| Supervised vs unsupervised learning | K | | | 1 | |
-| Geschikte performance measures kiezen | A | | | 1 | |
-| Clustering | T | |  | 2 |
+| Geschikt algoritme kiezen | A | | [hypothesis](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb)| 3 |
+| KNN | A | |[spam_filter](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/NLP(RNN)/spam_filter_step_by_step.ipynb) | 1 |
+| SVM | A | | [4.1 Modeling & Validation (SVM)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/heart_attack_dataset/heart_attack.ipynb) | 1 |
+| ~~Naive Bayes~~ SGD | A | |[4.2 Modeling & Validation (SGD Regressor)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb) | 1 |
+| Linear regression | A | | [4.3 Modeling & Validation (Linear regression)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb) | 1 |
+| Logistic regression | A | | [4.2 Modeling & Validation (Logistic Regression)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/heart_attack_dataset/heart_attack.ipynb) | 1 |
+| Decision tree | A | | [4.1 Modeling & Validation (DecisionTreeRegressor)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb) | 1 |
+| Random forest | A | |[spam_filter](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/NLP(RNN)/spam_filter_step_by_step.ipynb) | 1 |
+| Supervised vs unsupervised learning | K | | [MachineLearning](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/machinelearning) | 1 | |
+| Geschikte performance measures kiezen | A | | [4.1 Modeling & Validation (DecisionTreeRegressor) R2](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/flight_price_dataset/flight_price.ipynb) | 1 | |
+| Clustering | T | | [ 4.1 Modeling & Validation (CNN)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/movie_genre_dataset/movie_genre.ipynb) | 2 |
 | | | | |
 | **Deep neural nets** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
 | Dense neural network | A | | | 2 |
