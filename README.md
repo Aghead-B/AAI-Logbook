@@ -56,14 +56,14 @@ Voor het bewijs maak je vaak gebruikt van notebooks die gedeeltelijk zijn gemaak
 | Clustering | T | | [ 4.1 Modeling & Validation (CNN)](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/machinelearning/movie_genre_dataset/movie_genre.ipynb) | 2 |
 | | | | |
 | **Deep neural nets** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
-| Dense neural network | A | | | 2 |
-| Convolutional neural network | A | | | 2 |
-| Recurrent neural network | T | | | 2 |
-| Residual neural network | K | | | 2 |
-| Autoencoders | T | | | 2 |
-| Transformers | T | | | 3 |
-| Adversarial learning | T | | | 3 |
-| Reinforcement learning | T | | | 2 |
+| Dense neural network | A | | [Dense neural network](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/python_nn/neural_netwerk_V4.ipynb) | 2 |
+| Convolutional neural network | A | | [2. Face detection with MTCNN](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/di_14_03/2023_03_14_facedetection_MTCNN.ipynb) | 2 |
+| Recurrent neural network | T | | [RNN](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/NLP(RNN)/imdb_conv1d_rnn_opgave.ipynb) | 2 |
+| Residual neural network | K | | [olifants](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/do_16_03/olifanten/olifanten/2023_03_16_Olifantherkenning_ResNet50.ipynb) | 2 |
+| Autoencoders | T | | [ De volledige autoencoder](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/generative_DL/autoencoder_opgave.ipynb)| 2 |
+| Transformers | T | | [Natural Language Processing](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/tree/main/deeplearning/NLP(RNN))| 3 |
+| Adversarial learning | T | | [GAN](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/generative_DL/simple_gan.ipynb) | 3 |
+| Reinforcement learning | T | | [Taxi-problem](https://gitlab.fdmci.hva.nl/bilalma/minor-logboek-aai-2/-/blob/main/deeplearning/reinforcement%20learning/RL_taxi_problem.ipynb) | 2 |
 | | | | | |
 | **Model verbeteren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
 | Cross validation | T | | | 1 |
